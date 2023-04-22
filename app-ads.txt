@@ -1,5 +1,4 @@
 ironsrc.com, 280181, Direct
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
 
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
