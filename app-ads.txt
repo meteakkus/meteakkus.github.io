@@ -28,9 +28,6 @@ yeahmobi.com, 5135347, RESELLER
 zmaticoo.com, 5135347, RESELLER
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 admanmedia.com, 990, RESELLER
-connekt.ai,5585919044,RESELLER
-thunder-monetize.com,3962740416,RESELLER
-rhebus.works,3897070072,RESELLER
 conversantmedia.com, 100234, RESELLER, 03113cd04947736d
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4237, RESELLER
@@ -92,8 +89,6 @@ smartclip.net, 9394, RESELLER
 appnexus.com, 3368, RESELLER
 smartstream.tv, 417, RESELLER
 yieldlab.net, 2172218, RESELLER
-Pubnative.net, 1008770, RESELLER, d641df8625486a7b
-video.unrulymedia.com, 2464975885, RESELLER
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 stroeer.com, 17355, RESELLER
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
@@ -126,3 +121,21 @@ lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807 
 adsbea.com,17,RESELLER
+ignitemediatech.com, pub_61323, RESELLER
+inmobi.com, 6cc71dd159864641a03ce0c8792d801f, RESELLER,83e75a7ae333ca9d
+pubmatic.com, 162588,RESELLER, 5d62403b186f2ace
+lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157559, reseller, 5d62403b186f2ace
+pubmatic.com, 161162, reseller, 5d62403b186f2ace
+bidease.com, bidease_seller_20, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+video.unrulymedia.com, 819070080, RESELLER
+betweendigital.com, 45329, RESELLER
+vidoomy.com, 9148331, RESELLER
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+balloonlabs.ai, 9173515035, RESELLER
+thunder-monetize.com, 3692155372, RESELLER
+pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164602, RESELLER, 5d62403b186f2ace
