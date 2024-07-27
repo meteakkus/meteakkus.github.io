@@ -89,11 +89,6 @@ lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 triplelift.com, 12652, RESELLER, 6c33edb13117fd86
-thunder-monetize.com, 3692155372, RESELLER
-lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
-pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
-stroeer.com, 25290, RESELLER
-smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26158, RESELLER, 0bfd66d529a55807
@@ -146,3 +141,8 @@ appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 playwire.com,1025119,RESELLER
 zmaticoo.com, 5135347, RESELLER
 yeahmobi.com, 5135347, RESELLER
+xandr.com, 15769, RESELLER 
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b 
+connekt.ai, 1732945743, RESELLER 
+pubmatic.com, 164601, RESELLER, 5d62403b186f2ace 
+video.unrulymedia.com, 1058378980, RESELLER
