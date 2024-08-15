@@ -149,4 +149,4 @@ video.unrulymedia.com, 1058378980, RESELLER
 thunder-monetize.com, 1421531493, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
-smaato.com, 1100050739, RESELLER, 07bcf65f187117b4 
+smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
