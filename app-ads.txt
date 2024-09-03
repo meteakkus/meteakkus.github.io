@@ -4,7 +4,6 @@ rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
 improvedigital.com, 1114, RESELLER
-improvedigital.com, 1114, RESELLER
 conversantmedia.com, 100234, RESELLER, 03113cd04947736d
 conversantmedia.com, 100688, RESELLER, 03113cd04947736d
 conversantmedia.com, 100691, RESELLER, 03113cd04947736d
@@ -141,10 +140,10 @@ appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 playwire.com,1025119,RESELLER
 zmaticoo.com, 5135347, RESELLER
 yeahmobi.com, 5135347, RESELLER
-xandr.com, 15769, RESELLER
-lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
-connekt.ai, 1732945743, RESELLER
-pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+xandr.com, 15769, RESELLER 
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b 
+connekt.ai, 1732945743, RESELLER 
+pubmatic.com, 164601, RESELLER, 5d62403b186f2ace 
 video.unrulymedia.com, 1058378980, RESELLER
 thunder-monetize.com, 1421531493, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
