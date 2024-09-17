@@ -122,7 +122,7 @@ openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 adbility-media.com, 187, RESELLER
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
-smartclip.net, 8153, RESELLER
+smartclip.net, 14679, RESELLER
 stroeer.com, 17379, RESELLER
 orangeclickmedia.com, C-1181, RESELLER
 video.unrulymedia.com, 6111915185540403805, RESELLER
