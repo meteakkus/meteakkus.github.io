@@ -81,7 +81,6 @@ loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 toponad.com, 164478a84dfe31, RESELLER, 1d49fe424a1a456d
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
-xandr.com, 15840, RESELLER
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
@@ -150,3 +149,7 @@ video.unrulymedia.com, 689559416, RESELLER
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
 smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
 rubiconproject.com, 25060 , RESELLER, 0bfd66d529a55807
+risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+Media.net, 8CU12AQ1Y, RESELLER
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
