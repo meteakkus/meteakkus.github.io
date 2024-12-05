@@ -132,10 +132,6 @@ admanmedia.com, 990, RESELLER
 visiblemeasures.com, 1020, RESELLER
 video.unrulymedia.com, 158727213, RESELLER
 zmaticoo.com, 5135703, RESELLER
-rhebus.works, 3816258913, RESELLER
-lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
-sharethrough.com, vQMCuYXA, RESELLER, d53b998a7bd4ecd2
-appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 playwire.com,1025119,RESELLER
 zmaticoo.com, 5135347, RESELLER
 yeahmobi.com, 5135347, RESELLER
@@ -154,3 +150,10 @@ sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 Media.net, 8CU12AQ1Y, RESELLER
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 smartclip.net, 13630, RESELLER
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+zetaglobal.net, 815, RESELLER
+contextweb.com, 563539, RESELLER, 89ff185a4c4e857c
+sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
+appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
+smartclip.net, 27985, RESELLER
