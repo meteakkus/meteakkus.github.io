@@ -164,3 +164,7 @@ media.net, 8CU43768M, RESELLER
 taurusx.com, 80070, RESELLER
 rhebus.works, 5000863388, RESELLER
 e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
+vidazoo.com, 6763f7632381fc1150a4f706, DIRECT
+smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
+triplelift.com, 11883, RESELLER, 6c33edb13117fd86
+lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
