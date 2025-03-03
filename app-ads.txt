@@ -168,3 +168,6 @@ vidazoo.com, 6763f7632381fc1150a4f706, DIRECT
 smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
 triplelift.com, 11883, RESELLER, 6c33edb13117fd86
 lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
+castify.ai,1295183, RESELLER
+rubiconproject.com,25336,RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 848837292, RESELLER
