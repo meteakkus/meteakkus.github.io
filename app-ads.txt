@@ -152,7 +152,7 @@ media.net, 8CU43768M, RESELLER
 taurusx.com, 80070, RESELLER
 rhebus.works, 5000863388, RESELLER
 e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
-vidazoo.com, 6763f7632381fc1150a4f706, DIRECT
+vidazoo.com, 6763f7632381fc1150a4f706, RESELLER
 smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
 triplelift.com, 11883, RESELLER, 6c33edb13117fd86
 lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
@@ -181,7 +181,7 @@ sabio.us,100092,reseller,96ed93aaa9795702
 contextweb.com,563595,RESELLER,89ff185a4c4e857c
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
-thebrave.io, 1234764, DIRECT, c25b2154543746ac
+thebrave.io, 1234764, RESELLER, c25b2154543746ac
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, RESELLER
 toponad.com,16745466edb659,RESELLER,1d49fe424a1a456d
 toponad.com,164478a84dfe31,RESELLER,1d49fe424a1a456d
