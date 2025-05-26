@@ -22,6 +22,7 @@ onetag.com, 5d49f482552c9b6, Reseller
 ushareit.com, LC7dc692567a127a57, RESELLER
 lacunads.com, LC7dc692567a127a57, RESELLER
 thebrave.io, 1234648, RESELLER, c25b2154543746ac
+zmaticoo.com, 5135195, RESELLER
 smartadserver.com, 4343, RESELLER
 contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
@@ -154,10 +155,10 @@ taurusx.com, 80070, RESELLER
 rhebus.works, 5000863388, RESELLER
 e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
 vidazoo.com, 6763f7632381fc1150a4f706, RESELLER
-smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
-triplelift.com, 11883, RESELLER, 6c33edb13117fd86
 lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
 castify.ai,1295183, RESELLER
+opera.com,pub10084465274176,RESELLER,55a0c5fd61378de3
+media.net, 8cun4y5y3, RESELLER
 rubiconproject.com,25336,RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 848837292, RESELLER
 Media.net, 8CUO7P3WK, RESELLER
