@@ -147,7 +147,6 @@ appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 smartclip.net, 27985, RESELLER
 pubnative.net, 1009988, RESELLER, d641df8625486a7b
 conversantmedia.com, 100863, RESELLER, 03113cd04947736d
-improvedigital.com, 2451, RESELLER
 rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 media.net, 8CU43768M, RESELLER
@@ -224,6 +223,11 @@ rubiconproject.com, 26566, RESELLER, 0bfd66d529a55807
 improvedigital.com, 1234, DIRECT
 opera.com,pub7507776842240,DIRECT,55a0c5fd61378de3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+improvedigital.com, 2608, RESELLER
+bidmachine.io,162,RESELLER
+rubiconproject.com,18364,RESELLER,0bfd66d529a55807
+zmaticoo.com, 5135063, RESELLER
+opera.com,pub6148735850944,RESELLER,55a0c5fd61378de3
 smartclip.net, 15458, RESELLER
 video.unrulymedia.com, 906352066, RESELLER
 contextweb.com,563521,RESELLER,89ff185a4c4e857c
@@ -232,10 +236,7 @@ pubmatic.com, 161736, RESELLER, 5d62403b186f2ace
 onomagic.com, 204981, RESELLER
 rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
 themediagrid.com, FALINO, DIRECT, 35d5010d7789b49d
-bidmachine.io,113,RESELLER
-criteo.com,B-057601,RESELLER,9fac4a4a87c2a44f
 rubiconproject.com,18364,RESELLER,0bfd66d529a55807
-pubmatic.com,157800,RESELLER,5d62403b186f2ace
 undertone.com, 4108, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
